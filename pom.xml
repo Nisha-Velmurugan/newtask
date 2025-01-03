@@ -9,6 +9,11 @@
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
+         <sonar.projectKey>newtask</sonar.projectKey>
+         <sonar.host.url>http://localhost:9000</sonar.host.url>
+         <sonar.login>sqp_7121bab83e40061e0df2f6f9e13c976639dbcfd8</sonar.login>
+</properties>
+
     </properties>
     <dependencies>
         <!-- JUnit Dependency -->
